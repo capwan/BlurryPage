@@ -6,4 +6,4 @@ Just blurry page
 
 ## Instruction 
 
->> Just open `index.html`. 
+Just open `index.html`. 
