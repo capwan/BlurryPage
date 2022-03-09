@@ -1,0 +1,2 @@
+# BlurryPage
+Just blurry page
