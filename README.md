@@ -7,3 +7,5 @@ Just blurry page
 ## Instruction 
 
 Just open `index.html`. 
+
+**[Live Demo](https://capwan.github.io/BlurryPage/)**
